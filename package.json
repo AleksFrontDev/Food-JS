@@ -1,0 +1,27 @@
+{
+  "name": "js-practice-second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleks",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/preset-env": "^7.22.20",
+    "json-server": "^0.17.3",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "babel-loader": "^9.1.3",
+    "core-js": "^3.32.2",
+    "gulp": "^4.0.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
